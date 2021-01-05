@@ -9,6 +9,9 @@ de la normalización del valor de posicionamiento proporcionado por cada buscado
 Se presentarán enlaces a los documentos recuperados, el buscador que lo recuperó, el valor original de su relevancia y el valor normalizado que fue utilizado 
 para el ranking.
 
+#### Imagen
+![img1](https://github.com/UsagiHaku/Buscador-Federado/blob/main/Captura%20de%20Pantalla%202021-01-04%20a%20la(s)%2019.06.05.png)
+
 #### Herramientas
 <https://pro.europeana.eu/page/search> 
 
