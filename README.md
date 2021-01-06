@@ -1,4 +1,4 @@
-# Buscador-Federado
+# Buscador Federado
 Buscador federado que integra los resultados de 2 buscadores existentes (Europeana y PLOS) . 
 El buscador federado tiene una expansión de consultas utilizando dataMuse.
 
