@@ -12,7 +12,40 @@ para el ranking.
 #### Imagen
 ![img1](https://github.com/UsagiHaku/Buscador-Federado/blob/main/Captura%20de%20Pantalla%202021-01-04%20a%20la(s)%2019.06.05.png)
 
-#### Herramientas
-<https://pro.europeana.eu/page/search> 
+## Instalación 🔧
 
-<http://api.plos.org/>
+#### Instalación de PHP en Mac usando la terminal (PHP 7.3)
+
+```
+curl -s https://php-osx.liip.ch/install.sh | bash -s 7.3
+```
+#### Instalación de PHP en Linux usando la terminal (PHP 5)
+
+```
+apt-get install php5-common libapache2-mod-php5 php5-cli
+```
+
+#### Más información sobre el proceso de instalación de php
+https://www.geeksforgeeks.org/how-to-execute-php-code-using-command-line/  
+https://www.php.net/manual/es/install.php
+
+
+## Ejecución 🔧
+
+Para correr el proyecto, usamos el siguiente comando:
+
+```
+php file_name.php
+
+```
+Podemos iniciar el servidor para probar el código php usando el siguiente comando:
+
+```
+php -S localhost:8080 
+```
+
+## Herrramientas 🛠️
+<https://pro.europeana.eu/page/search>   
+<http://api.plos.org/>  
+https://www.mysqltutorial.org/basic-mysql-tutorial.aspx  
+https://www.php.net/  
